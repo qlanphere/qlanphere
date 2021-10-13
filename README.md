@@ -1,6 +1,5 @@
-# Welcome
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&width=700&lines=👋+My+name+is+Quinn+Lanphere+and+I+am+currently+a+Trainee+Full+Stack+Developer+at+Futureproof+👋++++++++++++++++)](https://git.io/typing-svg) <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=qlanphere&repo=qlanphere&countColorcountColor&countColor=%237B1E7B"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&width=700&lines=👋+Welcome+to+my+Github,+my+name+is+Quinn+Lanphere+👋++++++++++++++++)](https://git.io/typing-svg) <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=qlanphere&repo=qlanphere&countColorcountColor&countColor=%237B1E7B"/>
 <!--<img align="right" alt="GIF" height="60px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
 ---
 
